@@ -1,10 +1,10 @@
-# Hi there, I'm NasriLadaa! 👋
+# Hi there, I'm Nasri Ladaa! 👋
 
 Welcome to my GitHub profile! I'm a passionate Senior Full Stack Developer with a keen interest in web development, mobile applcation development, data science, and open-source contributions. Here, you'll find a variety of projects that I've worked on, ranging from small utilities to more complex applications.
 
-## 🔭 Current Projects
-- **[Project Name](link-to-project)**: Brief description of the project.
-- **[Another Project](link-to-project)**: Brief description of another project.
+## 🔭 Projects
+- **[Master Thesis]([link-to-project](https://github.com/NasriLadaa/Thesis_Experiments_2023_SWEN_Nasri))**: Conducted Experiments using Machine Learning and Deep Learning.
+
 
 ## 🌱 Learning & Growth
 I'm constantly learning and exploring new technologies. Currently, I'm focused on:

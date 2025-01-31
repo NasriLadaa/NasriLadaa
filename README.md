@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Senior Full Stack Developer with a keen interest in web development, mobile applcation development, data science, and open-source contributions. Here, you'll find a variety of projects that I've worked on, ranging from small utilities to more complex applications.
 
 ## 🔭 Projects
-- **[Master Thesis]([link-to-project](https://github.com/NasriLadaa/Thesis_Experiments_2023_SWEN_Nasri))**: Conducted Experiments using Machine Learning and Deep Learning.
+- - **[Master's Thesis: Machine Learning & Deep Learning Experiments](https://github.com/NasriLadaa/Thesis_Experiments_2023_SWEN_Nasri)**: Conducted a series of experiments applying Machine Learning and Deep Learning techniques to solve real-world problems.
 
 
 ## 🌱 Learning & Growth

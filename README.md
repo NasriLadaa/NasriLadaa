@@ -21,7 +21,7 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 - Data Science (Python, Pandas, Numpy)
 
 ## 📫 How to Reach Me
-- Email: [nasriladaa@example.com](mailto:nasriladaa@example.com)
+- Email: [nasriladaa@gmail.com](mailto:nasriladaa@gmail.com)
 - LinkedIn: [linkedin.com/in/nasriladaa](https://linkedin.com/in/nasriladaa)
 
 ## ⚡ Fun Fact

@@ -49,7 +49,6 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 ## ⚡ Fun Fact
 I love solving problem solving puzzles and playing Call of Duty in my free time!
 
-
 ### Hobbies
 
 - 🌍 Traveling and Exploring New Cultures
@@ -66,6 +65,16 @@ Feel free to explore my repositories and don't hesitate to leave a star if you f
 
 ![NasriLadaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasriLadaa&show_icons=true&theme=radical)
 
+
+
+
 <h3> Let's Connect:</h3>
 <a href="https://www.linkedin.com/in/nasriladaa/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px /></a>
-
+<!--
+<a href="https://leetcode.com/u/Nasriladaa/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Visit-orange?style=social&logo=leetcode" alt="LeetCode Profile" />
+</a>
+<a href="https://www.hackerrank.com/profile/nasriladaa" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Visit-brightgreen?style=social&logo=hackerrank" alt="HackerRank Profile" />
+</a>
+-->

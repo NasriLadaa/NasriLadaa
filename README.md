@@ -21,6 +21,27 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 - Backend Development (Node.js, Express, Django, Spring Boot)
 - Data Science (Python, Pandas, Numpy)
 
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasriLadaa&hide=html,css&count_private=true&layout=compact)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=50px /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=50px />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftsqlserver.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
+</p>
+<br>
+
+
 ## 📫 How to Reach Me
 - Email: [nasriladaa@gmail.com](mailto:nasriladaa@gmail.com)
 - LinkedIn: [linkedin.com/in/nasriladaa](https://linkedin.com/in/nasriladaa)
@@ -28,6 +49,23 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 ## ⚡ Fun Fact
 I love solving problem solving puzzles and playing Call of Duty in my free time!
 
+
+### Hobbies
+
+- 🌍 Traveling and Exploring New Cultures
+- 📚 Reading (Leadership & Self development)
+- 💻 Coding and Learning New Technologies
+- 🏞️ Hiking and Nature Walks
+- ⚽ Playing and Wathcing Sports (Especially Football).
+- 🏊‍♂️ Swimming
+- 🎧 Listening to Music
+- 🎮 Gaming
+
+
 Feel free to explore my repositories and don't hesitate to leave a star if you find something interesting. Happy coding!
 
 ![NasriLadaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasriLadaa&show_icons=true&theme=radical)
+
+<h3> Let's Connect:</h3>
+<a href="https://www.linkedin.com/in/nasriladaa/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px /></a>
+

@@ -43,7 +43,7 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 
 
 ## 📫 How to Reach Me
-- Email: [nasriladaa@gmail.com](mailto:nasriladaa@gmail.com)
+- Email: [nasreladaa@gmail.com](mailto:nasreladaa@gmail.com)
 - LinkedIn: [linkedin.com/in/nasriladaa](https://linkedin.com/in/nasriladaa)
 
 ## ⚡ Fun Fact

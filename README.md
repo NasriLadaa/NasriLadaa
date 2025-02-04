@@ -47,7 +47,7 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 - LinkedIn: [linkedin.com/in/nasriladaa](https://linkedin.com/in/nasriladaa)
 
 ## ⚡ Fun Fact
-I love solving problem solving puzzles and playing Call of Duty in my free time!
+I love solving <a href="https://github.com/NasriLadaa/LeetCode-Solutions" >problem solving puzzles</a> and playing Call of Duty in my free time!
 
 ### Hobbies
 

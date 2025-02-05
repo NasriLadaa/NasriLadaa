@@ -55,8 +55,8 @@ I love solving <a href="https://github.com/NasriLadaa/LeetCode-Solutions" >probl
 - 📚 Reading (Leadership & Self development)
 - 💻 Coding and Learning New Technologies
 - 🏞️ Hiking and Nature Walks
-- ⚽ Playing and Wathcing Sports (Especially Football).
-- 🏊‍♂️ Swimming
+- ⚽ Playing and Wathcing Sports (Especially Football), 🏊‍♂️ Swimming.
+- 💻 Watching Netflix Documentaries
 - 🎧 Listening to Music
 - 🎮 Gaming
 
